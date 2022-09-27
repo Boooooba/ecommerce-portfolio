@@ -14,3 +14,11 @@ Project is created with:
 * GitHub
 * Git
 * Vite
+
+
+## Setup
+To run this project, install it locally using npm:
+```
+$ npm install
+$ npm run dev
+```
