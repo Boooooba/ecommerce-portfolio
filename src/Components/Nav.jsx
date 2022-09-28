@@ -11,7 +11,7 @@ const { cartItems, showHideCart } = useContext( CartContext )
             <div className='nav-middle'>
                 <div className='input-wrapper'>
                     <input type='text' />
-                    <i className='fas fa-search' />
+                    <i className='fa fa-search' />
                 </div>
             </div>
             <div className='nav-right'>
